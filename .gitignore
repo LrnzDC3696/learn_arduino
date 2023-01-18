@@ -1,3 +1,16 @@
+# From https://github.com/ladislas/Bare-Arduino-Project/blob/master/.gitignore
+.DS_Store
+bin/*/
+*build-*
+*build*
+*~
+build-tmp/
+Makefile
+doc/
+debug.txt
+.ycm_extra_conf.pyc
+.ropeproject
+
 # Prerequisites
 *.d
 
