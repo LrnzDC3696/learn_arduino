@@ -2,6 +2,7 @@
 /* By contrast, non-digital (or analog) systems use a */
 /* continuous range of values to represent information. */
 
+/* ONLY THE SQUIGLY LINES CAN HAVE ANALOG WRITE */
 const uint8_t LED_PINS_COUNT = 3;
 const uint8_t LED_PINS[LED_PINS_COUNT] = {8, 9, 10};
 const uint32_t DEFAULT_DELAY = 500;
