@@ -19,7 +19,7 @@ void setup() {
 }
 
 void loop() {
-  // Read the value of the obstacle pin
+  // Read the value of the obstacle pin 
   isObstacle = digitalRead(isObstaclePin);
 
   // If the obstacle pin is LOW, there is an obstacle
